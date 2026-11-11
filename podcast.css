@@ -171,6 +171,7 @@ body {
     margin-top: 4rem;
     display: flex;
     gap: 1rem;
+    color: #cd4631;
 }
 
 .episode-actions button.secondary {
